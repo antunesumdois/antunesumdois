@@ -11,7 +11,7 @@ Em 2020 atuei como suporte de forma remota na CETEC juntamente com uma equipe de
 
 💼 FERRAMENTAS: VScode, Git e Github, Moodle e um pouco de Photoshop.
 
-📧 Caso deseje entrar em contato comigo, envie um e-mail para matheusantunesmonteiro@outlook.com
+📧 Caso deseje entrar em contato comigo, envie um e-mail para: matheusantunesmonteiro@outlook.com
 
 📋 Link para download do meu currículo 👉 encurtador.com.br/pqs19
 
