@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá ! Fico muito feliz em que visitou meu repositório aqui no Git Hub. 🧙
 
-<!--
-**antunesumdois/antunesumdois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quem sou eu ? 🤔
 
-Here are some ideas to get you started:
+Meu nome é Matheus Antunes Monteiro, tenho 20 anos e sou de Jacareí, inteiror de São Paulo !
+Sou recém formado em Análise e Desenvolvimento de Sistemas e estou disponível para Freelas ou trabalhos, busco uma oportunidade como Front-End Jr.🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 HABILIDADES: HTML5, CSS3, JavaScript, Bootstrap.
+💼 FERRAMENTAS: VScode, Git e Github e um pouco de Photoshop.
+
+📧 Caso deseje entrar em contato comigo, envie um e-mail para matheusantunesmonteiro@outlook.com 
+
+
