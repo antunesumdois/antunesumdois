@@ -1,4 +1,4 @@
-Olá ! Fico muito feliz em que visitou meu repositório aqui no Git Hub. 🧙
+Olá ! Fico muito feliz que visitou meu repositório aqui no Git Hub. 🧙
 
 Quem sou eu ? 🤔
 
