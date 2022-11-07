@@ -1,18 +1,27 @@
-Olá ! Fico muito feliz que visitou meu repositório aqui no Git Hub. 🧙
+## Olá! Eu sou o Matheus Monteiro. 🧙
+<div align="center">
+  <a href="https://github.com/antunesumdois">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antunesumdois&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesumdois&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-Quem sou eu ? 🤔
 
-Meu nome é Matheus Antunes Monteiro, tenho 20 anos e sou de Jacareí, interior de São Paulo !
-Sou formado em Análise e Desenvolvimento de Sistemas e pós graduado em T.I para Estratégia de Negócio estou disponível para Freelas ou trabalhos e busco uma oportunidade como Dev Jr.
-Em 2020 atuei como suporte de forma remota na CETEC juntamente com uma equipe de desenvolvimento na criação de um curso proposto para professores do qual sua finalidade é ensinar sobre a plataforma de ensino a distância Moodle e seu novo plug-in chamado H5P que utiliza a linguagem de programação JavaScript. 🤖
-
-
-🏆 HABILIDADES: Java, HTML5, CSS3, JavaScript, Bootstrap.
-
-💼 FERRAMENTAS: VScode, Git e Github, Moodle e um pouco de Photoshop.
-
-📧 Caso deseje entrar em contato comigo, envie um e-mail para: matheusantunesmonteiro@outlook.com
-
-📋 Link para download do meu currículo 👉 encurtador.com.br/pqs19
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  
+  <a href="https://instagram.com/antunesumdois" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/antunesumdois" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheusantunesmonteiro@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheusantunesmonteiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
